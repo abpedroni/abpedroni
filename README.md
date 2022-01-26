@@ -1,4 +1,6 @@
-👋 Hi, I’m @abpedroni, nice to meet you! 
+### Hey 👋, I'm Allan Pedroni
+
+[![](https://img.shields.io/badge/-Allan%20Pedroni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanpedroni/)](https://www.linkedin.com/in/allanpedroni/)
 
 Feel free to ask me questions!
 
